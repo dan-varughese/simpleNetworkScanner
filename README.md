@@ -13,7 +13,7 @@ Created a simple network scanner using Python and Nmap with options for target I
 
 **2. Nmap Library Usage:**
 
-* **Nmap Scripting Engine (NSE):**  (Optional) Exploring the power of NSE for extending Nmap's capabilities and customizing scans.
+* **Nmap Scripting Engine (NSE):**  Exploring the power of NSE for extending Nmap's capabilities and customizing scans.
 * **Nmap Output Parsing:**  Processing Nmap's XML output to extract relevant information and present it in a user-friendly format.
 
 
