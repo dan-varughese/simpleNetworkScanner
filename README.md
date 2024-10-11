@@ -27,10 +27,10 @@ Created a simple network scanner using Python and Nmap with options for target I
 ## Steps
 
 *Ref 1: Snapshot of Usage Menu*
-<img src="https://imgur.com/a/ylb7Cjx"/>
+<img src="https://i.imgur.com/szxVleg.png"/>
 
 *Ref 2: Snapshot of Results*
-<img src="https://imgur.com/a/78Jj7Th"/>
+<img src="https://i.imgur.com/V7o2c5V.png"/>
 
 
 
