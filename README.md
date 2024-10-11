@@ -26,15 +26,11 @@ Created a simple network scanner using Python and Nmap with options for target I
 
 ## Steps
 
-*Ref 1: Elastic Logs*
-<img src="https://i.imgur.com/K2gnRwo.png"/>
+*Ref 1: Snapshot of Usage Menu*
+<img src="https://imgur.com/a/ylb7Cjx"/>
 
-*Ref 2: Nmap Scans*
-<img src="https://i.imgur.com/slPosbJ.png"/>
+*Ref 2: Snapshot of Results*
+<img src="https://imgur.com/a/78Jj7Th"/>
 
-*Ref 3: Custom Dashboard*
-<img src="https://i.imgur.com/0Fg33ID.png"/>
 
-*Ref 4  Nmap Scans on Kali Linux*
-<img src="https://i.imgur.com/MMRw9n1.png"/>
 
