@@ -7,14 +7,14 @@ Created a simple network scanner using Python and Nmap with options for target I
 
 **1. Networking Concepts:**
 
-* **Port Scanning Techniques:**  Learning various port scanning methods (TCP SYN, UDP, connect, etc.) and their implications for stealth and accuracy.
-* **Service & Version Detection:**  Understanding how Nmap identifies services running on open ports and determines their versions.
-* **Network Security Fundamentals:**  Developing awareness of network vulnerabilities and how port scanning plays a role in security assessments.
+* **Port Scanning Techniques:**  Learned various port scanning methods (TCP SYN, UDP, connect, etc.) and their implications for stealth and accuracy.
+* **Service & Version Detection:**  Understood how Nmap identifies services running on open ports and determines their versions.
+* **Network Security Fundamentals:**  Developed awareness of network vulnerabilities and how port scanning plays a role in security assessments.
 
 **2. Nmap Library Usage:**
 
-* **Nmap Scripting Engine (NSE):**  Exploring the power of NSE for extending Nmap's capabilities and customizing scans.
-* **Nmap Output Parsing:**  Processing Nmap's XML output to extract relevant information and present it in a user-friendly format.
+* **Nmap Scripting Engine (NSE):**  Explored the power of NSE for extending Nmap's capabilities and customizing scans.
+* **Nmap Output Parsing:**  Processed Nmap's XML output to extract relevant information and present it in a user-friendly format.
 
 
 ### Tools Used
